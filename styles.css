@@ -330,7 +330,7 @@ h4 {
 
 .hero,
 .hero .glide__slides {
-  background-color:black;
+  background-color:var(--primaryColor);
   position: relative;
   width: 100%;
   height: 100vh;
