@@ -713,7 +713,7 @@ ul{
   justify-content: center;
   margin: 0 auto 5rem;
   padding: 2rem 0;
-  background-color: var(--primaryColor);
+  background-color: #c1c1c1;
 }
 
 .section__titles:not(:last-child) {
